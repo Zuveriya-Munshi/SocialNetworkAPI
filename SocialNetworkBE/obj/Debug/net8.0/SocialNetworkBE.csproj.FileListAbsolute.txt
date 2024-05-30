@@ -1,0 +1,76 @@
+E:\6th Semester\Project .NET\SocialNetworkBE\obj\Debug\net8.0\SocialNetworkBE.csproj.AssemblyReference.cache
+E:\6th Semester\Project .NET\SocialNetworkBE\obj\Debug\net8.0\SocialNetworkBE.GeneratedMSBuildEditorConfig.editorconfig
+E:\6th Semester\Project .NET\SocialNetworkBE\obj\Debug\net8.0\SocialNetworkBE.AssemblyInfoInputs.cache
+E:\6th Semester\Project .NET\SocialNetworkBE\obj\Debug\net8.0\SocialNetworkBE.AssemblyInfo.cs
+E:\6th Semester\Project .NET\SocialNetworkBE\obj\Debug\net8.0\SocialNetworkBE.csproj.CoreCompileInputs.cache
+E:\6th Semester\Project .NET\SocialNetworkBE\obj\Debug\net8.0\SocialNetworkBE.MvcApplicationPartsAssemblyInfo.cs
+E:\6th Semester\Project .NET\SocialNetworkBE\obj\Debug\net8.0\SocialNetworkBE.MvcApplicationPartsAssemblyInfo.cache
+E:\6th Semester\Project .NET\SocialNetworkBE\bin\Debug\net8.0\appsettings.Development.json
+E:\6th Semester\Project .NET\SocialNetworkBE\bin\Debug\net8.0\appsettings.json
+E:\6th Semester\Project .NET\SocialNetworkBE\bin\Debug\net8.0\SocialNetworkBE.exe
+E:\6th Semester\Project .NET\SocialNetworkBE\bin\Debug\net8.0\SocialNetworkBE.deps.json
+E:\6th Semester\Project .NET\SocialNetworkBE\bin\Debug\net8.0\SocialNetworkBE.runtimeconfig.json
+E:\6th Semester\Project .NET\SocialNetworkBE\bin\Debug\net8.0\SocialNetworkBE.dll
+E:\6th Semester\Project .NET\SocialNetworkBE\bin\Debug\net8.0\SocialNetworkBE.pdb
+E:\6th Semester\Project .NET\SocialNetworkBE\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\6th Semester\Project .NET\SocialNetworkBE\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\6th Semester\Project .NET\SocialNetworkBE\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\6th Semester\Project .NET\SocialNetworkBE\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\6th Semester\Project .NET\SocialNetworkBE\bin\Debug\net8.0\System.Data.SqlClient.dll
+E:\6th Semester\Project .NET\SocialNetworkBE\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+E:\6th Semester\Project .NET\SocialNetworkBE\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+E:\6th Semester\Project .NET\SocialNetworkBE\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+E:\6th Semester\Project .NET\SocialNetworkBE\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\6th Semester\Project .NET\SocialNetworkBE\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\6th Semester\Project .NET\SocialNetworkBE\obj\Debug\net8.0\staticwebassets.build.json
+E:\6th Semester\Project .NET\SocialNetworkBE\obj\Debug\net8.0\staticwebassets.development.json
+E:\6th Semester\Project .NET\SocialNetworkBE\obj\Debug\net8.0\staticwebassets\msbuild.SocialNetworkBE.Microsoft.AspNetCore.StaticWebAssets.props
+E:\6th Semester\Project .NET\SocialNetworkBE\obj\Debug\net8.0\staticwebassets\msbuild.build.SocialNetworkBE.props
+E:\6th Semester\Project .NET\SocialNetworkBE\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SocialNetworkBE.props
+E:\6th Semester\Project .NET\SocialNetworkBE\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SocialNetworkBE.props
+E:\6th Semester\Project .NET\SocialNetworkBE\obj\Debug\net8.0\staticwebassets.pack.json
+E:\6th Semester\Project .NET\SocialNetworkBE\obj\Debug\net8.0\scopedcss\bundle\SocialNetworkBE.styles.css
+E:\6th Semester\Project .NET\SocialNetworkBE\obj\Debug\net8.0\SocialNe.ADCA5D54.Up2Date
+E:\6th Semester\Project .NET\SocialNetworkBE\obj\Debug\net8.0\SocialNetworkBE.dll
+E:\6th Semester\Project .NET\SocialNetworkBE\obj\Debug\net8.0\refint\SocialNetworkBE.dll
+E:\6th Semester\Project .NET\SocialNetworkBE\obj\Debug\net8.0\SocialNetworkBE.pdb
+E:\6th Semester\Project .NET\SocialNetworkBE\obj\Debug\net8.0\SocialNetworkBE.genruntimeconfig.cache
+E:\6th Semester\Project .NET\SocialNetworkBE\obj\Debug\net8.0\ref\SocialNetworkBE.dll
+E:\6th Semester\Project .NET\Social Network\SocialNetworkBE\bin\Debug\net8.0\appsettings.Development.json
+E:\6th Semester\Project .NET\Social Network\SocialNetworkBE\bin\Debug\net8.0\appsettings.json
+E:\6th Semester\Project .NET\Social Network\SocialNetworkBE\bin\Debug\net8.0\SocialNetworkBE.exe
+E:\6th Semester\Project .NET\Social Network\SocialNetworkBE\bin\Debug\net8.0\SocialNetworkBE.deps.json
+E:\6th Semester\Project .NET\Social Network\SocialNetworkBE\bin\Debug\net8.0\SocialNetworkBE.runtimeconfig.json
+E:\6th Semester\Project .NET\Social Network\SocialNetworkBE\bin\Debug\net8.0\SocialNetworkBE.dll
+E:\6th Semester\Project .NET\Social Network\SocialNetworkBE\bin\Debug\net8.0\SocialNetworkBE.pdb
+E:\6th Semester\Project .NET\Social Network\SocialNetworkBE\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\6th Semester\Project .NET\Social Network\SocialNetworkBE\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\6th Semester\Project .NET\Social Network\SocialNetworkBE\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\6th Semester\Project .NET\Social Network\SocialNetworkBE\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\6th Semester\Project .NET\Social Network\SocialNetworkBE\bin\Debug\net8.0\System.Data.SqlClient.dll
+E:\6th Semester\Project .NET\Social Network\SocialNetworkBE\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+E:\6th Semester\Project .NET\Social Network\SocialNetworkBE\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+E:\6th Semester\Project .NET\Social Network\SocialNetworkBE\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+E:\6th Semester\Project .NET\Social Network\SocialNetworkBE\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\6th Semester\Project .NET\Social Network\SocialNetworkBE\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\6th Semester\Project .NET\Social Network\SocialNetworkBE\obj\Debug\net8.0\SocialNetworkBE.csproj.AssemblyReference.cache
+E:\6th Semester\Project .NET\Social Network\SocialNetworkBE\obj\Debug\net8.0\SocialNetworkBE.GeneratedMSBuildEditorConfig.editorconfig
+E:\6th Semester\Project .NET\Social Network\SocialNetworkBE\obj\Debug\net8.0\SocialNetworkBE.AssemblyInfoInputs.cache
+E:\6th Semester\Project .NET\Social Network\SocialNetworkBE\obj\Debug\net8.0\SocialNetworkBE.AssemblyInfo.cs
+E:\6th Semester\Project .NET\Social Network\SocialNetworkBE\obj\Debug\net8.0\SocialNetworkBE.csproj.CoreCompileInputs.cache
+E:\6th Semester\Project .NET\Social Network\SocialNetworkBE\obj\Debug\net8.0\SocialNetworkBE.MvcApplicationPartsAssemblyInfo.cs
+E:\6th Semester\Project .NET\Social Network\SocialNetworkBE\obj\Debug\net8.0\SocialNetworkBE.MvcApplicationPartsAssemblyInfo.cache
+E:\6th Semester\Project .NET\Social Network\SocialNetworkBE\obj\Debug\net8.0\staticwebassets.build.json
+E:\6th Semester\Project .NET\Social Network\SocialNetworkBE\obj\Debug\net8.0\staticwebassets.development.json
+E:\6th Semester\Project .NET\Social Network\SocialNetworkBE\obj\Debug\net8.0\staticwebassets\msbuild.SocialNetworkBE.Microsoft.AspNetCore.StaticWebAssets.props
+E:\6th Semester\Project .NET\Social Network\SocialNetworkBE\obj\Debug\net8.0\staticwebassets\msbuild.build.SocialNetworkBE.props
+E:\6th Semester\Project .NET\Social Network\SocialNetworkBE\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SocialNetworkBE.props
+E:\6th Semester\Project .NET\Social Network\SocialNetworkBE\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SocialNetworkBE.props
+E:\6th Semester\Project .NET\Social Network\SocialNetworkBE\obj\Debug\net8.0\staticwebassets.pack.json
+E:\6th Semester\Project .NET\Social Network\SocialNetworkBE\obj\Debug\net8.0\scopedcss\bundle\SocialNetworkBE.styles.css
+E:\6th Semester\Project .NET\Social Network\SocialNetworkBE\obj\Debug\net8.0\SocialNe.ADCA5D54.Up2Date
+E:\6th Semester\Project .NET\Social Network\SocialNetworkBE\obj\Debug\net8.0\SocialNetworkBE.dll
+E:\6th Semester\Project .NET\Social Network\SocialNetworkBE\obj\Debug\net8.0\refint\SocialNetworkBE.dll
+E:\6th Semester\Project .NET\Social Network\SocialNetworkBE\obj\Debug\net8.0\SocialNetworkBE.pdb
+E:\6th Semester\Project .NET\Social Network\SocialNetworkBE\obj\Debug\net8.0\SocialNetworkBE.genruntimeconfig.cache
+E:\6th Semester\Project .NET\Social Network\SocialNetworkBE\obj\Debug\net8.0\ref\SocialNetworkBE.dll

@@ -1,0 +1,92 @@
+/* Registration.css */
+
+/* Background gradient */
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: -webkit-linear-gradient(to bottom right, rgba(240, 147, 251, 1), rgba(245, 87, 108, 1));
+    background: linear-gradient(to bottom right, rgba(240, 147, 251, 1), rgba(245, 87, 108, 1));
+  }
+  
+  /* Container styles */
+  .container {
+    width: 100%;
+    max-width: 400px; /* Adjust the max-width as needed */
+  }
+  h3{
+    color: #ffffff;
+  }
+  /* Card and form styles */
+  .card-registration {
+    background-color: #292929;
+    border-radius: 20px;
+    padding: 40px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  .card-registration .card-body {
+    border-radius: 15px;
+  }
+  
+  /* Form input styles */
+  .form-group {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px; /* Adjust spacing between form elements */
+  }
+  
+  .form-group label {
+    width: 30%; /* Adjust label width */
+    color: #999999;
+  }
+  
+  .form-group input {
+    flex: 1;
+    width: 100%;
+    padding: 0.5rem 1rem; /* Adjust input padding */
+    border: 2px solid #444444; /* Adjust border width and color */
+    border-radius: 8px; /* Adjust border radius */
+    background-color: transparent;
+    color: #ffffff;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  }
+  
+  .form-group input:focus {
+    border-color: #007bff;
+    box-shadow: none;
+  }
+  
+  /* Radio button styles */
+  .form-check-inline .form-check-input {
+    width: 1.25rem;
+    height: 1.25rem;
+  }
+  
+  /* Submit button styles */
+  .btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+  }
+  
+  .btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+    color: black;
+
+  }
+  .link a {
+    text-decoration: none;
+  }
+  .button {
+    margin: 20px;
+    width: 119px;
+    height: 30px;
+    border-radius: 5px;
+    color: white;
+}
+label{
+  text-align: left;
+}
